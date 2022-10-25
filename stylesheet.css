@@ -1,0 +1,36 @@
+* {
+  background-color: cornsilk;
+}
+.form-style  {
+  font-size: 15px;
+  font-family: sans-serif;
+  box-sizing: border-box;
+   }
+input[type=submit]  {
+  width: 100%;
+  background-color: gray;
+  }
+
+input {
+  border-radius: 15px;
+}
+input {
+  display: block;
+}
+input[type=tellusmore] {
+    width: 50%;
+    height: auto;
+    background-color: white;
+  }
+input[type=phonenumber] {
+    background-color: white;
+  }
+input[type=email] {
+    background-color: white;
+  }
+input[type=text] {
+  background-color: white;
+ }
+ input[type=date] {
+   background-color: white;
+ }
